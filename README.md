@@ -4,7 +4,7 @@ This repository contains a deep learning–based system for recognizing handwrit
 
 This work demonstrates strong skills in computer vision, deep learning, hyperparameter tuning, model optimization, and pipeline development — and can be integrated into OCR systems, digital forms processing, educational applications, and assistive technologies.
 
-🎯 Objective
+🎯 #Objective 
 
 To build a robust image-based recognition system that:
 
