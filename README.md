@@ -4,7 +4,7 @@ This repository contains a deep learning–based system for recognizing handwrit
 
 This work demonstrates strong skills in computer vision, deep learning, hyperparameter tuning, model optimization, and pipeline development — and can be integrated into OCR systems, digital forms processing, educational applications, and assistive technologies.
 
-🎯 #Objective 
+# 🎯Objective 
 
 To build a robust image-based recognition system that:
 
@@ -20,7 +20,7 @@ Produces a deployable, scalable classification model
 
 This project showcases an end-to-end deep learning workflow suitable for real-world computer-vision use cases.
 
-🧠 Key Capabilities
+# 🧠Key Capabilities
 
 Multi-Architecture Training: Baseline CNN, Regularized CNN, Hyperparameter-Tuned CNN, MobileNetV2 (frozen, fine-tuned, and tuned versions)
 
@@ -36,7 +36,7 @@ Evaluation Suite: Confusion matrix, classification report, learning curves
 
 Reproducible Pipeline: Fully implemented in Jupyter Notebook / Python with TensorFlow
 
-🏗️ Technical Approach
+# 🏗️ Technical Approach
 
 The system follows a structured computer-vision and deep-learning pipeline:
 
@@ -121,7 +121,7 @@ Learning curves: accuracy & loss
 
 This ensures thorough model validation and interpretability.
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 Python
 
@@ -137,7 +137,7 @@ Keras Tuner
 
 Jupyter Notebook
 
-📈 Results Summary
+# 📈 Results Summary
 
 Your experiments produced:
 
@@ -145,7 +145,7 @@ Strong performance from the Regularized CNN
 
 Improved generalization from Fine-Tuned MobileNetV2
 
-🚀How It Works (High-Level)
+# 🚀How It Works (High-Level)
 
 Load and preprocess the dataset
 
